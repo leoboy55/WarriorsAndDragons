@@ -1,0 +1,15 @@
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\bin\Debug\net6.0\WarriorsAndDragons.exe
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\bin\Debug\net6.0\WarriorsAndDragons.deps.json
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\bin\Debug\net6.0\WarriorsAndDragons.runtimeconfig.json
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\bin\Debug\net6.0\WarriorsAndDragons.dll
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\bin\Debug\net6.0\WarriorsAndDragons.pdb
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\obj\Debug\net6.0\WarriorsAndDragons.csproj.AssemblyReference.cache
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\obj\Debug\net6.0\WarriorsAndDragons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\obj\Debug\net6.0\WarriorsAndDragons.AssemblyInfoInputs.cache
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\obj\Debug\net6.0\WarriorsAndDragons.AssemblyInfo.cs
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\obj\Debug\net6.0\WarriorsAndDragons.csproj.CoreCompileInputs.cache
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\obj\Debug\net6.0\WarriorsAndDragons.dll
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\obj\Debug\net6.0\refint\WarriorsAndDragons.dll
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\obj\Debug\net6.0\WarriorsAndDragons.pdb
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\obj\Debug\net6.0\WarriorsAndDragons.genruntimeconfig.cache
+C:\Users\Thoma\source\repos\WarriorsAndDragons\WarriorsAndDragons\obj\Debug\net6.0\ref\WarriorsAndDragons.dll

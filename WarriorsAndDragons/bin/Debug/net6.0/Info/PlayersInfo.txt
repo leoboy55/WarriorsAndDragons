@@ -1,0 +1,6 @@
+Warrior,8,1
+Assasin,4,1
+Dragonslayer,6,1
+Druid,5,1
+Mage,5,1
+Necromancer,0,1
